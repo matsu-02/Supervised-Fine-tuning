@@ -1,0 +1,15 @@
+--index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+torchvision==0.21.0
+torchaudio==2.6.0
+accelerate==1.5.2
+bitsandbytes==0.45.5
+datasets==3.5.0
+duckdb==1.2.2
+evaluate==0.4.3
+gspread==6.2.0
+peft==0.14.0
+transformers==4.51.3
+rouge_score==0.1.2
+trl==0.16.1
+vllm
